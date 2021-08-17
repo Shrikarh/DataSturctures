@@ -1,2 +1,2 @@
 # DataSturctures
-Contains all the code which I practice DSA
+Contains all the code which I practice for DSA
